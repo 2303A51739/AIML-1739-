@@ -5,6 +5,8 @@
 #[lab4](https://github.com/2303A51739/AIML-1739-/blob/main/AIML_ASSIGNMEN_4.ipynb)
 #[lab5](https://github.com/2303A51739/AIML-1739-/blob/main/Aiml_assignment_5.ipynb)
 #[lab6](https://github.com/2303A51739/AIML-1739-/blob/main/AIML_assignment_6.ipynb)
+#[lab7](https://github.com/2303A51739/AIML-1739-/blob/main/Aiml_assignment7.ipynb)
+
 
 
 
